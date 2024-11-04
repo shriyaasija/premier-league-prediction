@@ -4,4 +4,4 @@ In this project, we'll predict the winner of football matches in the English Pre
 
 ## File Overview 
 * `scraping.ipynb` - a Jupyter notebook that scrapes our data.
-* `predictions.ipynb` - a Jupyter notebook that makes predictions.
+* `prediction.ipynb` - a Jupyter notebook that makes predictions.
